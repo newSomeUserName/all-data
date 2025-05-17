@@ -1,0 +1,15 @@
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\bin\Debug\net7.0\AutoApplication.exe
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\bin\Debug\net7.0\AutoApplication.deps.json
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\bin\Debug\net7.0\AutoApplication.runtimeconfig.json
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\bin\Debug\net7.0\AutoApplication.dll
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\bin\Debug\net7.0\AutoApplication.pdb
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\AutoApplication.csproj.AssemblyReference.cache
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\AutoApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\AutoApplication.AssemblyInfoInputs.cache
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\AutoApplication.AssemblyInfo.cs
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\AutoApplication.csproj.CoreCompileInputs.cache
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\AutoApplication.dll
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\refint\AutoApplication.dll
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\AutoApplication.pdb
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\AutoApplication.genruntimeconfig.cache
+C:\Users\gleb2\source\repos\AutoApplication\AutoApplication\obj\Debug\net7.0\ref\AutoApplication.dll

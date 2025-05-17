@@ -1,0 +1,15 @@
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\bin\Debug\net7.0\abstractTest.exe
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\bin\Debug\net7.0\abstractTest.deps.json
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\bin\Debug\net7.0\abstractTest.runtimeconfig.json
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\bin\Debug\net7.0\abstractTest.dll
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\bin\Debug\net7.0\abstractTest.pdb
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\abstractTest.csproj.AssemblyReference.cache
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\abstractTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\abstractTest.AssemblyInfoInputs.cache
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\abstractTest.AssemblyInfo.cs
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\abstractTest.csproj.CoreCompileInputs.cache
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\abstractTest.dll
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\refint\abstractTest.dll
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\abstractTest.pdb
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\abstractTest.genruntimeconfig.cache
+C:\Users\gleb2\source\repos\abstractTest\abstractTest\obj\Debug\net7.0\ref\abstractTest.dll
